@@ -57,9 +57,9 @@ test-data/
 - users.ts
 - customers.ts
 
-playwright.config.ts
-package.json
-README.md
+- playwright.config.ts
+- package.json
+- README.md
 ```
 
 ## Design Pattern
