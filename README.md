@@ -41,21 +41,21 @@ Invalid Login:
 ## Project Structure
 
 pages/
-  LoginPage.ts
-  LogoutPage.ts
-  InventoryPage.ts
-  CartPage.ts
-  CheckoutInformation.ts
-  CheckoutOverview.ts
-  CheckoutComplete.ts
+ - LoginPage.ts
+ - LogoutPage.ts
+ - InventoryPage.ts
+ - CartPage.ts
+ - CheckoutInformation.ts
+ - CheckoutOverview.ts
+ - CheckoutComplete.ts
 
 tests/
-  e2e_scenario.spec.ts
-  negative_scenario.spec.ts
+- e2e_scenario.spec.ts
+- negative_scenario.spec.ts
 
 test-data/
-  users.ts
-  customers.ts
+- users.ts
+- customers.ts
 
 playwright.config.ts
 package.json
